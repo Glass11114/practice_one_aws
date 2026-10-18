@@ -1,0 +1,13 @@
+# Credenciales privadas
+config.yaml
+**/config.yaml
+.env
+.env.*
+.aws/
+credentials
+
+# Entornos virtuales
+venv/
+.venv/
+__pycache__/
+*.pyc
